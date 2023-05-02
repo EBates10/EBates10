@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am new to programming, and looking forward to learning and starting on some new projects!
 <!--
 **EBates10/EBates10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
